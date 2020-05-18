@@ -1,0 +1,2 @@
+for (int i= 10; i <=10; i++){tem
+ System.out.println(" This is the number"+ i)}
